@@ -7,6 +7,8 @@ Insights and Model on the Crisis of African banks over the years
 
 african_crisis.ipynb : the jupyter notebook for this repo
 
+african_crises.csv : dataset for this project
+
 bank.jpg : image 
 
 crisis.jpg : image
