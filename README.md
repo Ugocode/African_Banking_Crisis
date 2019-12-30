@@ -18,3 +18,9 @@ crisis.jpg : image
 The algorithms used in creating this models are the 
 Logistic regression 
 and the Random Forest Classifier 
+
+# EDA: Exploratory Data Analysis 
+
+Doing the exploring of the data in this project revealed how unbalanced 
+
+The data was so I used SMOTE to upsample the data 
