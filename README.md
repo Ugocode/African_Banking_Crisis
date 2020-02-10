@@ -21,9 +21,7 @@ and the Random Forest Classifier
 
 # EDA: Exploratory Data Analysis 
 
-Doing the exploring of the data in this project revealed how unbalanced 
-
-The data was so I used SMOTE to upsample the data 
+Doing the exploring of the data in this project revealed how unbalanced the data was so I used SMOTE to upsample the data. and many features was discovered to co-relate thereby helping to determine the final result
 
 # Insights
 
