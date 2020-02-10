@@ -25,7 +25,7 @@ Doing the exploring of the data in this project revealed how unbalanced
 
 The data was so I used SMOTE to upsample the data 
 
-#Insights
+# Insights
 
 From what we can seein this project Systemic_crisis is a major cause of banking crisis in Africa. So when govenments and govenment institutions making monetry polices fail, there is a very high likelyhood that there will be banking crises in the country.
 
