@@ -15,8 +15,9 @@ crisis.jpg : image
 
 # Models Created :
 
-The algorithms used in creating this models are the 
+The algorithms used in creating the models are the 
 Logistic regression 
+
 and the Random Forest Classifier 
 
 # EDA: Exploratory Data Analysis 
